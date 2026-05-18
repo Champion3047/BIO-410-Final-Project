@@ -2,11 +2,10 @@
 
 ## Background
 
-The viral sequencing samples used in this project were analyzed to determine their evolutionary relationships using phylogenetic analysis. After assembling sequencing reads into contigs, multiple sequence alignment and maximum likelihood phylogenetic methods were used to compare the viral genomes.
+The sequencing reads analyzed in this project came from Ebola virus, specifically Zaire ebolavirus. Ebola virus is a negative-sense single-stranded RNA virus in the family Filoviridae that causes severe hemorrhagic fever in humans and other primates. Ebola virus genomes are approximately 19 kb in length, which is consistent with the assembled contig sizes obtained in this project. Phylogenetic analysis is commonly used to study the evolutionary relationships and spread of Ebola virus strains during outbreaks.
 
-The organism analyzed appears to be Hepatitis C virus (HCV), which is an RNA virus that infects the liver and can lead to chronic liver disease, cirrhosis, and liver cancer.
-HCV has a high mutation rate, making phylogenetic analysis useful for studying evolutionary relationships and transmission patterns between viral samples.
-
+Reference:
+Muyembe-Tamfum JJ et al. Ebola hemorrhagic fever in Kikwit, Democratic Republic of the Congo: clinical observations in 103 patients. Journal of Infectious Diseases. 1999.
 Reference:
 Moradpour D, Penin F, Rice CM. Replication of hepatitis C virus. Nature Reviews Microbiology. 2007;5(6):453-463.
 
