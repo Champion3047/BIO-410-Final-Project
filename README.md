@@ -5,6 +5,7 @@
 The viral sequencing samples used in this project were analyzed to determine their evolutionary relationships using phylogenetic analysis. After assembling sequencing reads into contigs, multiple sequence alignment and maximum likelihood phylogenetic methods were used to compare the viral genomes.
 
 The organism analyzed appears to be Hepatitis C virus (HCV), which is an RNA virus that infects the liver and can lead to chronic liver disease, cirrhosis, and liver cancer.
+HCV has a high mutation rate, making phylogenetic analysis useful for studying evolutionary relationships and transmission patterns between viral samples.
 
 Reference:
 Moradpour D, Penin F, Rice CM. Replication of hepatitis C virus. Nature Reviews Microbiology. 2007;5(6):453-463.
