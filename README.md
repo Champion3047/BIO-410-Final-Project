@@ -18,5 +18,7 @@ The purpose of this project was to assemble viral sequencing reads, align the re
 Raw paired-end FASTQ sequencing files were assembled into contigs using MEGAHIT. The resulting contigs from each sample were imported into R using the DECIPHER package. Multiple sequence alignment was performed using the AlignSeqs function, and the alignment was visualized using BrowseSeqs. A phylogenetic tree was then generated using maximum likelihood analysis in R.
 
 ## Results
+Here is the phylogenetic tree:
 
+![Phylogenetic Tree](phylogenetic_tree.png)
 The phylogenetic tree showed evolutionary relationships among the six viral samples. Some samples clustered more closely together, indicating greater sequence similarity and a closer evolutionary relationship. The analysis successfully produced a phylogenetic tree from the assembled viral contigs, allowing comparison between all samples.
