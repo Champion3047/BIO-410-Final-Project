@@ -6,8 +6,7 @@ The sequencing reads analyzed in this project came from Ebola virus, specificall
 
 Reference:
 Muyembe-Tamfum JJ et al. Ebola hemorrhagic fever in Kikwit, Democratic Republic of the Congo: clinical observations in 103 patients. Journal of Infectious Diseases. 1999.
-Reference:
-Moradpour D, Penin F, Rice CM. Replication of hepatitis C virus. Nature Reviews Microbiology. 2007;5(6):453-463.
+
 
 ## Purpose
 
